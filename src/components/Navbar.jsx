@@ -9,7 +9,7 @@ const Navbar = () => {
         <Toolbar>
             <Typography sx={{ flexGrow: 1 }} align='left'>EmployeeApp</Typography>
             <Button>
-                <Link to={'/'} style={{textDecoration:'none' ,color:'white'}}>Home
+                <Link to={'/ch'} style={{textDecoration:'none' ,color:'white'}}>View
                 </Link>
                 </Button>
             <Button>
